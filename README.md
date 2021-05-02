@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matinkhorshidi
-- 👀 I’m interested in design and developing frontend of the websites and Aplications
+- 👀 I’m interested in design and developing frontend of the websites and Applications
 - 🌱 I’m currently learning React
 - 📫 you can reach me on my Gmail : khorshidimatin@gmail.com
 
